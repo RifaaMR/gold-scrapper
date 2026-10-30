@@ -68,7 +68,7 @@ def scrape_aneka_logam(page) -> list[dict]:
     return [{
         "source": "anekalogam",
         "material": "gold",
-        "materialType": "Antam",
+        "materialType": "Emas Batangan",
         "weight": 1,
         "weightUnit": "gr",
         "sellPrice": sell_price,
@@ -210,7 +210,7 @@ def scrape_logam_mulia(page) -> list[dict]:
     return [{
         "source": "logammulia",
         "material": "gold",
-        "materialType": "Antam",
+        "materialType": "Emas Batangan",
         "weight": 1,
         "weightUnit": "gr",
         "sellPrice": sell_price,
