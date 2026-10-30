@@ -4,7 +4,7 @@
     {
       "source": "anekalogam",
       "material": "gold",
-      "materialType": "Antam",
+      "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
       "sellPrice": 2470000,
@@ -20,7 +20,7 @@
     {
       "source": "logammulia",
       "material": "gold",
-      "materialType": "Antam",
+      "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
       "sellPrice": 2546000,
@@ -35,6 +35,6 @@
     }
   ],
   "count": 2,
-  "timestamp": "2026-10-30T04:17:31.630Z",
+  "timestamp": "2026-10-30T13:54:40.144Z",
   "cached": true
 }

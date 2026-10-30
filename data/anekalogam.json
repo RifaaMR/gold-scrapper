@@ -4,7 +4,7 @@
     {
       "source": "anekalogam",
       "material": "gold",
-      "materialType": "Antam",
+      "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
       "sellPrice": 2470000,
@@ -19,6 +19,6 @@
     }
   ],
   "count": 1,
-  "timestamp": "2026-10-30T04:17:23.264Z",
+  "timestamp": "2026-10-30T13:54:28.821Z",
   "cached": true
 }
