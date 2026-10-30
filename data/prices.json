@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "data": [
+    {
+      "source": "anekalogam",
+      "material": "gold",
+      "materialType": "Antam",
+      "weight": 1,
+      "weightUnit": "gr",
+      "sellPrice": 2482000,
+      "buybackPrice": 2430000,
+      "currency": "IDR",
+      "recordedDate": "2026-10-30",
+      "lineKey": "",
+      "url": "/api/prices/anekalogam",
+      "displayName": "Aneka Logam",
+      "logo": "",
+      "urlHomepage": "https://www.anekalogam.co.id"
+    },
+    {
+      "source": "logammulia",
+      "material": "gold",
+      "materialType": "Antam",
+      "weight": 1,
+      "weightUnit": "gr",
+      "sellPrice": 2546000,
+      "buybackPrice": 2430000,
+      "currency": "IDR",
+      "recordedDate": "2026-10-30",
+      "lineKey": "",
+      "url": "/api/prices/logammulia",
+      "displayName": "Logam Mulia",
+      "logo": "",
+      "urlHomepage": "https://www.logammulia.com"
+    }
+  ],
+  "count": 2,
+  "timestamp": "2026-10-30T03:17:35.771Z",
+  "cached": true
+}

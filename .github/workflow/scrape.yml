@@ -1,0 +1,40 @@
+name: Update Harga Emas Otomatis
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari pukul 09:00 WIB (02:00 UTC) dan 14:00 WIB (07:00 UTC)
+    - cron: '0 2,7 * * *'
+  workflow_dispatch: # Tombol manual di tab Actions GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run Scraper
+        run: xvfb-run --auto-servernum python scraper.py
+
+      - name: Commit and Push JSON Data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/*.json
+          git diff --staged --quiet || (git commit -m "chore: update gold prices [skip ci]" && git push)
