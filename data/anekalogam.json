@@ -7,8 +7,8 @@
       "materialType": "Antam",
       "weight": 1,
       "weightUnit": "gr",
-      "sellPrice": 2482000,
-      "buybackPrice": 2430000,
+      "sellPrice": 2470000,
+      "buybackPrice": 2420000,
       "currency": "IDR",
       "recordedDate": "2026-10-30",
       "lineKey": "",
@@ -19,6 +19,6 @@
     }
   ],
   "count": 1,
-  "timestamp": "2026-10-30T03:17:28.068Z",
+  "timestamp": "2026-10-30T04:12:26.247Z",
   "cached": true
 }
