@@ -10,7 +10,7 @@
       "sellPrice": 2450000,
       "buybackPrice": 2380000,
       "currency": "IDR",
-      "recordedDate": "2026-10-31",
+      "recordedDate": "2026-11-01",
       "lineKey": "",
       "url": "/api/prices/anekalogam",
       "displayName": "Aneka Logam",
@@ -26,7 +26,7 @@
       "sellPrice": 2526000,
       "buybackPrice": 2380000,
       "currency": "IDR",
-      "recordedDate": "2026-10-31",
+      "recordedDate": "2026-11-01",
       "lineKey": "",
       "url": "/api/prices/logammulia",
       "displayName": "Logam Mulia",
@@ -35,6 +35,6 @@
     }
   ],
   "count": 2,
-  "timestamp": "2026-10-31T08:07:03.523Z",
+  "timestamp": "2026-11-01T08:52:07.404Z",
   "cached": true
 }

@@ -10,7 +10,7 @@
       "sellPrice": 2526000,
       "buybackPrice": 2380000,
       "currency": "IDR",
-      "recordedDate": "2026-10-31",
+      "recordedDate": "2026-11-01",
       "lineKey": "",
       "url": "/api/prices/logammulia",
       "displayName": "Logam Mulia",
@@ -19,6 +19,6 @@
     }
   ],
   "count": 1,
-  "timestamp": "2026-10-31T08:07:03.414Z",
+  "timestamp": "2026-11-01T08:52:06.751Z",
   "cached": true
 }
