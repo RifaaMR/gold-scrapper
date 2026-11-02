@@ -3,7 +3,7 @@ name: Update Harga Emas Otomatis
 on:
   schedule:
     # Berjalan otomatis setiap hari pukul 09:00 WIB (02:00 UTC) dan 14:00 WIB (07:00 UTC)
-    - cron: '0 2,7 * * *'
+    - cron: '17 2,7 * * *'
   workflow_dispatch: # Tombol manual di tab Actions GitHub
 
 permissions:
