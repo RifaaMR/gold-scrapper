@@ -7,10 +7,10 @@
       "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
-      "sellPrice": 2537000,
-      "buybackPrice": 2420000,
+      "sellPrice": 2557000,
+      "buybackPrice": 2450000,
       "currency": "IDR",
-      "recordedDate": "2026-11-04",
+      "recordedDate": "2026-11-05",
       "lineKey": "",
       "url": "/api/prices/logammulia",
       "displayName": "Logam Mulia",
@@ -19,6 +19,6 @@
     }
   ],
   "count": 1,
-  "timestamp": "2026-11-04T09:09:14.623Z",
+  "timestamp": "2026-11-05T09:28:41.423Z",
   "cached": true
 }
