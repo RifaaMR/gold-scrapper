@@ -7,10 +7,10 @@
       "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
-      "sellPrice": 2436000,
+      "sellPrice": 2433000,
       "buybackPrice": 2380000,
       "currency": "IDR",
-      "recordedDate": "2026-11-18",
+      "recordedDate": "2026-11-19",
       "lineKey": "",
       "url": "/api/prices/anekalogam",
       "displayName": "Aneka Logam",
@@ -23,10 +23,10 @@
       "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
-      "sellPrice": 2514000,
+      "sellPrice": 2511000,
       "buybackPrice": 2380000,
       "currency": "IDR",
-      "recordedDate": "2026-11-18",
+      "recordedDate": "2026-11-19",
       "lineKey": "",
       "url": "/api/prices/logammulia",
       "displayName": "Logam Mulia",
@@ -35,6 +35,6 @@
     }
   ],
   "count": 2,
-  "timestamp": "2026-11-18T10:07:08.756Z",
+  "timestamp": "2026-11-19T10:23:21.967Z",
   "cached": true
 }
