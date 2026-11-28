@@ -7,10 +7,10 @@
       "materialType": "Emas Batangan",
       "weight": 1,
       "weightUnit": "gr",
-      "sellPrice": 2422000,
+      "sellPrice": 2435000,
       "buybackPrice": 2250000,
       "currency": "IDR",
-      "recordedDate": "2026-11-27",
+      "recordedDate": "2026-11-28",
       "lineKey": "",
       "url": "/api/prices/anekalogam",
       "displayName": "Aneka Logam",
@@ -19,6 +19,6 @@
     }
   ],
   "count": 1,
-  "timestamp": "2026-11-27T10:50:26.933Z",
+  "timestamp": "2026-11-28T10:22:50.816Z",
   "cached": true
 }
